@@ -1,4 +1,4 @@
-package org.example.multithreading;
+package org.example.multithreading.Synchronization;
 
 public class SynchronizedInJava {
     public void send(String msg) {
